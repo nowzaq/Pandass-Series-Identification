@@ -6,4 +6,4 @@
 
 <p id="description">
   This GitHub post contains a ready-made Discord bot with basic codes. All basic settings are available inside, so you can start writing code directly on it. Good codings.
-</p>.
+</p>
